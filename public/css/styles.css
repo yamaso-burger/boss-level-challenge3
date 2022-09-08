@@ -1,8 +1,13 @@
+.title {
+    margin-top: 15px;
+}
+
 .container-fluid {
     padding-top: 70px;
     padding-bottom: 70px;
 }
 .navbar {
+    background-color: #e0e0e0;
     padding-top: 15px;
     padding-bottom: 15px;
     border: 0;
